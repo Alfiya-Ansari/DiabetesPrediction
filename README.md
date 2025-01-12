@@ -73,7 +73,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/diabetes-prediction.git
+git clone https://github.com/Alfiya-Ansari/DiabetesPrediction.git
 ```
 
 2. Navigate to the project directory:
@@ -97,12 +97,7 @@ jupyter notebook diabetes-prediction.ipynb
 
 The trained model achieves the following metrics:
 
-- **Accuracy**: XX%
-- **Precision**: XX%
-- **Recall**: XX%
-- **F1-Score**: XX%
-
-(Note: Replace `XX%` with actual values from the model evaluation in the notebook.)
+- **Accuracy**: 78%
 
 ## Acknowledgements
 
